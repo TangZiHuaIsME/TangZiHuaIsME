@@ -36,16 +36,7 @@ A passionate Network Automation Engineer focused on bridging the gap between tra
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TangZiHuaIsME&show_icons=true&theme=tokyonight&count_private=true" alt="ZiHua's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangZiHuaIsME&layout=compact&theme=tokyonight&hide_percents=true" alt="Top Languages" height="180px"/>
-</p>
-
----
-
 ### 📫 Connect with Me
-- 📧 **Email:** [tangzihuadev@163.com] ```
+- 📧 **Email:** [tangzihuadev@163.com] 
 
 ---
